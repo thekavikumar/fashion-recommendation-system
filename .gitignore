@@ -1,0 +1,14 @@
+# Ignore specific files
+featurizer-model-1.pt
+
+# Ignore all .pt files
+*.pt
+
+# Ignore directories
+__pycache__/
+models/
+
+index_images
+
+env
+.streamlit
