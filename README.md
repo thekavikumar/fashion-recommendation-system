@@ -93,16 +93,3 @@ streamlit run home.py
 * Navigate over to the sidebar, at the "gallery", to explore sample results
 
 <br>
-
-# Dataset
-
-#### The dataset used in this project is available <a href="https://github.com/eileenforwhat/complete-the-look-dataset/tree/master">here</a>:
-<div class="box">
-  <pre>
-    @online{Eileen2020,
-  author       = {Eileen Li, Eric Kim, Andrew Zhai, Josh Beal, Kunlong Gu},
-  title        = {Bootstrapping Complete The Look at Pinterest},
-  year         = {2020}
-}
-  </pre>
-</div>
