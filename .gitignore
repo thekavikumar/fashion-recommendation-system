@@ -6,7 +6,7 @@ featurizer-model-1.pt
 
 # Ignore directories
 __pycache__/
-models/
+
 
 index_images
 
